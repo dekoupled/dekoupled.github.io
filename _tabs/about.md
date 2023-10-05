@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-![Juan](/assets/imgs/juan.png){: width="250" .w-25 .right}
+![Juan](/assets/img/juan.png){: width="250" .w-25 .right}
 Juan Chiaradia is Staff Engineer in the Mobile Platform team behind Volvo Cars App.
 
 With 20 years on the IT industry and 12+ years on Android he has worked in a variety of projects for big and small companies, leading small teams on green field projects as well as big teams and projects with 10 years of legacy code in place.
