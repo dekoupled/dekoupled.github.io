@@ -1,8 +1,8 @@
 ---
 title: Coupling and Cohesion at Droidcon Lisbon 2023
 date: 2023-09-28
-categories: [Speaker]
-tags: [Talks, Coupling, Cohesion, SOLID]
+categories: [Talks]
+tags: [Coupling, Cohesion, SOLID]
 pin: true
 image:
   path: /assets/posts/20230928-droidcon/dclx23-session.jpeg
@@ -13,7 +13,7 @@ I was a speakers at [Droicon Lisbon 2023](https://www.lisbon.droidcon.com/).
 
 
 
-### Coupling and Cohesion, a recipe for keeping your code healthy
+# Coupling and Cohesion, a recipe for keeping your code healthy
 
 Clean Architecture is increasingly adopted in the industry based on the well-known SOLID principles, 
 yet there are two concepts even more basic than SOLID, and SOLID are a way to reach them: coupling and cohesion.

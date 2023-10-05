@@ -1,8 +1,8 @@
 ---
 title: Coupling and Cohesion at GDG Android Stockholm
-date: 2023-09-28
-categories: [Speaker]
-tags: [Talks, Coupling, Cohesion, SOLID]
+date: 2023-05-17
+categories: [Talks]
+tags: [Coupling, Cohesion, SOLID]
 image:
   path: /assets/posts/20230517-gdg/gdg-stockholm-volvo.png
   alt: Coupling and Cohesion at GDG Android Stockholm
@@ -12,8 +12,7 @@ I was a speakers at [GDG Android Stockholm meetup](https://www.meetup.com/gdg-an
 
 
 
-# Coupling and Cohesion
->How to keep a healthy balance
+# Coupling and Cohesion, How to keep a healthy balance
 
 Clean Architecture is increasingly adopted in the industry based on the well-known SOLID principles. In this talk, 
 we will introduce a functional approach to Clean Architecture focusing on the Interface Segregation principle to 

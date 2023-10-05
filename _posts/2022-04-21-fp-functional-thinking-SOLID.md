@@ -1,8 +1,8 @@
 ---
 title: Functional Thinking is SOLID at Func Prog Sweden
-date: 2023-09-28
-categories: [Speaker]
-tags: [Talks, Functional Programing, SOLID]
+date: 2022-04-21
+categories: [Talks]
+tags: [Functional Programing, SOLID]
 image:
   path: /assets/posts/20220421-fp/fp.webp
   alt: Functional Thinking is SOLID at Func Prog Sweden

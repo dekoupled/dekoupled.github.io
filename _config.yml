@@ -39,11 +39,10 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Chiaradia Juan Martin
   email: chiaradia.juan+dekoupled@gmail.com # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
+  links: # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/chiaradiajm
     - https://twitter.com/chiara-jm # change to your twitter homepage
     - https://github.com/dekoupled # change to your github homepage
-    - https://www.linkedin.com/in/chiaradiajm/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
@@ -76,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/imgs/dekoupled.png
+avatar: assets/img/dekoupled.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -180,7 +179,6 @@ exclude:
   - docs
   - tools
   - README.md
-  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
   - package*.json
