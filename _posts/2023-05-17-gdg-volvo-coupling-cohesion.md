@@ -18,7 +18,7 @@ Clean Architecture is increasingly adopted in the industry based on the well-kno
 we will introduce a functional approach to Clean Architecture focusing on the Interface Segregation principle to 
 reach a lousily coupled code based, while keeping it highly cohesive in its implementation
 
-<a href="/assets/posts/20230517-gdg/gdg-coupling-cohesion.key" title="Download" download>
+<a href="/assets/posts/20230517-gdg/%5Bdekoupled%5D%5BChiaradia%20Juan%5D%5BGDG%5DCoupling%20and%20Cohesion.key" title="Download" download>
  <i class="fa-solid fa-download"></i> - download Keynote presentation <i class="fa-solid fa-file"></i>
 </a>
 

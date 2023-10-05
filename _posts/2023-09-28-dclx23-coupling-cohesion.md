@@ -23,7 +23,7 @@ Principle together with a set of techniques to keep your code loosely coupled an
 the high level definition of a layered architecture to the actual implementation in the code base taking advantages 
 of Kotlin functional capabilities.
 
-<a href="/assets/posts/20230928-droidcon/dclx23-Coupling_and_Cohesion.key" title="Download" download>
+<a href="/assets/posts/20230928-droidcon/%5Bdekoupled%5D%5BChiaradia%20Juan%5D%5Bdclx23%5D%20Coupling%20and%20Cohesion.key" title="Download" download>
  <i class="fa-solid fa-download"></i> - download Keynote presentation <i class="fa-solid fa-file"></i>
 </a>
 

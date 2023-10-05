@@ -21,11 +21,11 @@ Within OOP, SOLID principles are broadly adopted as a path to reach the previous
 
 What if we apply Functional Thinking to our OO solutions? This talk will try to show how the Functional Thinking behind your solutions can lead to a SOLID and Clean code base.
 
-<a href="/assets/posts/20220421-fp/Functional%20Thinking%20is%20SOLID.pdf" title="Download" download>
+<a href="/assets/posts/20220421-fp/%5Bdekoupled%5D%5BChiaradia%20Juan%5D%5BFP%5D%20Functional%20Thinking%20is%20SOLID.pdf" title="Download" download>
  <i class="fa-solid fa-download"></i> - download PDF presentation <i class="fa-solid fa-file-pdf"></i>
 </a>
 
-<a href="/assets/posts/20220421-fp/Functional%20Thinking%20is%20SOLID.pptx" title="Download" download>
+<a href="/assets/posts/20220421-fp/%5Bdekoupled%5D%5BChiaradia%20Juan%5D%5BFP%5D%20Functional%20Thinking%20is%20SOLID.pptx" title="Download" download>
  <i class="fa-solid fa-download"></i> - download PPTX presentation <i class="fa-solid fa-file-powerpoint"></i>
 </a>
 
