@@ -11,10 +11,10 @@ image:
 
 This year I had the goal of getting more active and try to participate in more conferences/meetups.
 
-When [Droicon Lisbon 2023](https://www.lisbon.droidcon.com/) announced the call for speakers I saw a perfect opportunity
-to iterate on my talk [Coupling and Cohesion, How to keep a healthy balance
-](../gdg-volvo-coupling-cohesion) and get deeper into the details of the _**Use Case Driven Architecture**_ used at 
-[Volvo Cars](https://www.volvocars.com/). 
+When [Droicon Lisbon 2023](https://www.lisbon.droidcon.com/){:target="_blank"} announced the call for speakers it was 
+the perfect opportunity to iterate on my talk 
+[Coupling and Cohesion, How to keep a healthy balance](../gdg-volvo-coupling-cohesion) and get deeper into the details 
+of the _**Use Case Driven Architecture**_ used at [Volvo Cars](https://www.volvocars.com/){:target="_blank"}. 
 
 A video of the talk is on the way, but meanwhile you can entertain yourself with the keynote presentation from the 
 [downloads section](#-downloads).

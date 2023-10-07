@@ -8,21 +8,23 @@ image:
   alt: Functional Thinking is SOLID at Func Prog Sweden
 ---
 
-When I was in University, one of my favourite subjects was _Functional Programing_, I learned a lot from it till the 
-point I even became teacher assistant of it and from that point on, _Functional Programming approach_ impacted 
-considerably the way I code my solutions. 
+When I was in University, one of my favourite subjects was _Functional Programing_, I learned a lot from it and I even 
+became teacher assistant on this subject. 
 
-Along my career, while working as part of bigger teams and exchanging ideas with my colleagues, I usually found a bit of 
-resistance against applying Functional Programing, this was a big surprise for me due to the duality in between _FP_ and
-_OOP_ (Object Oriented Programing), but the language was mostly `java` where everything was a _class_ and then it is just
+Even when developing in `java`, I always tried to apply a _Functional Programming approach_ when I code my solutions. 
+
+Along my career, while working as part of bigger teams and exchanging ideas with my colleagues, I usually found 
+resistance against Functional Programing, this surprised me a bit due to the duality in between _FP_ and
+_OOP_ (Object Oriented Programing), but the language was `java` where everything was a _class_ and then it is just
 natural that engineers favour _OOP_ over _FP_.
 
 Fortunately, "modern" languages like `kotlin` and `swift` helped into bringing _Functional Programing_ back into the 
-picture (at least withing the mobile world).
+picture (at least withing the mobile world). Yet, there is still a bit of resistance out there.
 
-I was thrilled to have the opportunity of sharing my thoughts and present my talk _**Functional Thinking is SOLID**_ 
-at the [Func Prog Sweden meetup](https://www.meetup.com/Func-Prog-Sweden/events/284546377/) 
-hosted by [Volvo Cars](https://www.volvocars.com/).
+When [Func Prog Sweden](https://www.meetup.com/Func-Prog-Sweden/){:target="_blank"} was looking for a speaker for the 
+[meetup](https://www.meetup.com/Func-Prog-Sweden/events/284546377/){:target="_blank"} hosted by 
+[Volvo Cars](https://www.volvocars.com/){:target="_blank"} I was thrilled to have the opportunity of sharing my thoughts 
+and present my talk _**Functional Thinking is SOLID**_ and then help a bit into making _FP_ more accepted out there.
 
 ---
 
