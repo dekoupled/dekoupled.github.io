@@ -56,7 +56,7 @@ download="[dekoupled][Chiaradia Juan][dclx23] Coupling and Cohesion.key">
 ![pic6](/assets/posts/20230928-droidcon/pic6.jpg)
 ![pic7](/assets/posts/20230928-droidcon/pic7.jpg)
 
-[All the picture of the event](https://flic.kr/s/aHBqjAY3ry){:target="_blank"}
+[See all the pictures](https://flic.kr/s/aHBqjAY3ry){:target="_blank"}
 
 
 
