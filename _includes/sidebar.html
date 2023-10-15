@@ -48,7 +48,8 @@
     </ul>
   </nav>
 
-  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100"
+  style="margin-bottom:0;">
     {% for entry in site.data.contact %}
       {% case entry.type %}
         {% when 'github', 'twitter' %}
@@ -91,5 +92,15 @@
     {% endfor %}
   </div>
   <!-- .sidebar-bottom -->
+<hr class="w-100"/>
+  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100" style="text-align: center;">
+    <form action="https://api.follow.it/subscription-form/Z1N2Y3Z4Witib3dOS1FqOEJyUDFROTFUWUJmSHJoaEpyYS9oZFNBZXphSGJORGpwWTVLdnEvNFF2S0tYclcvMVU0aGJJS0NBV1NnaWpENWVRTzBoUkdxc3VTdVppbVJxV2JxTmJsamlMclNjR3UxUUJsdUpYYUY5ZFBrTGx1YTN8M0hBL210ZUMyTjBkNXZDL3M0OVBRQXhOVUFHUFhJUkZobzdrNnNHK1U1bz0=/8"
+          method="post" target="popupwindow">
+      <p class="align-items-center">Get new posts to your inbox</p>
+      <input class="w-100" type="text" name="email" placeholder="name@example.com"/>
+      <input class="w-100" type="submit" value="Subscribe"/>
+    </form>
+  </div>
 </aside>
 <!-- #sidebar -->
+
