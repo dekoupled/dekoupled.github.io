@@ -20,7 +20,7 @@ Talking in [Droicon Lisbon 2023](https://www.lisbon.droidcon.com/){:target="_bla
 of good talks, great organization and the city and weather could have not been better (who doesn't like some sun in late 
 September?). I am looking forward for Droidcon Lisbon 2024! 
 
-A video of the talk is on the way, but meanwhile you can entertain yourself with the keynote presentation from the 
+Unfortunately we do not have a videp, but you can entertain yourself with the keynote presentation from the 
 [downloads section](#-downloads) or with the [pictures of the event](#pictures-of-the-event).
 
 ![Coupling and Cohesion talk in Droidcon Lisbon 2023](/assets/posts/20230928-droidcon/dclx23.jpeg)

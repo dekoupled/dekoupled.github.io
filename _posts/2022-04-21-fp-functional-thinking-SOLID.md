@@ -30,7 +30,7 @@ and present my talk _**Functional Thinking is SOLID**_ and then help a bit into 
 
 ## Functional Thinking is SOLID
 
-{% include embed/youtube.html id='fiUFemfV-2E?t=500' %}
+{% include embed/youtube.html id='fiUFemfV-2E?start=320' %}
 
 ### Abstract
 
